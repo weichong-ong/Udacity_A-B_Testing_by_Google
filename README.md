@@ -1,4 +1,4 @@
-# Udacity_A-B_Testing_by_Google
+# Udacity A/B Testing by Google
 
 This is the final project of the [A/B testing course](https://www.udacity.com/course/ab-testing--ud257) from Udacity in collaboration with Google. This project covers experiment design and results analysis of a A/B test titled "Free Trial Screener", which was performed by Udacity.
 

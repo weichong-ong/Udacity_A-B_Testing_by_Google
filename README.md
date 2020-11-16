@@ -39,3 +39,6 @@ This dataset contains the raw information needed to compute the above metrics, b
 * **Payments:**
  Number of user-ids who who enrolled on that day to remain enrolled for 14 days and thus make a payment. (Note that the date for this column is the start date, that is, the date of enrollment, rather than the date of the payment. The payment happened 14 days later. Because of this, the enrollments and payments are tracked for 14 fewer days than the other columns.)
 
+For further reading about A/B Testing:
+- [A/B Testing Guide](https://vwo.com/ab-testing/)
+- [The Complete Guide To A/B Testing & Split Testing (2020)](https://www.convertize.com/ab-testing/)
